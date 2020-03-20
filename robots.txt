@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aivumaiha.omartin.me/sitemap.xml
